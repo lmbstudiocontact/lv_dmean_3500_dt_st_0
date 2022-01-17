@@ -1,0 +1,99 @@
+[
+  {
+    "link_it": "https://github.com/lmbstudiocontact/lv_dmean_3500_it_1/raw/main/hygiene_lv_dmean_3500_it.json",
+    "id_item": "hygiene_lv_dmean_3500_it",
+    "id_album": "94691743",
+    "english": "hygiene",
+    "list_mean": [
+      "vệ sinh"
+    ],
+    "hash_code_list_mean": "-384883618",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809325816_0bc1b3a5de_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809325816_0f83b8c22c_o.png",
+        "id_image": "hygiene_2720295"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810062585_54d481acac_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810062585_8d6a17e149_o.png",
+        "id_image": "hygiene_2927564"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809680849_40992fa524_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809680849_7c98557ab7_o.png",
+        "id_image": "hygiene_2949990"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809325711_01deb08b7a_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809325711_e55b19f69c_o.png",
+        "id_image": "hygiene_3035083"
+      }
+    ],
+    "hash_code_list_img": "655044488",
+    "list_example": [
+      "In the interest of hygiene , please do not smoke in this shop"
+    ],
+    "hash_code_list_example": "1219500161"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/lv_dmean_3500_it_1/raw/main/hygienic_lv_dmean_3500_it.json",
+    "id_item": "hygienic_lv_dmean_3500_it",
+    "id_album": "94691743",
+    "english": "hygienic",
+    "list_mean": [
+      "vệ sinh; hợp vệ sinh"
+    ],
+    "hash_code_list_mean": "-1273625265",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809325646_2fbeae5f90_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809325646_39a3c48380_o.png",
+        "id_image": "hygienic_247592"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809440638_6a7c1199fb_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809440638_e7c421656e_o.png",
+        "id_image": "hygienic_339976"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810062380_7b9a8f328f_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810062380_5a820ef23d_o.png",
+        "id_image": "hygienic_343815"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810062355_8cb67f14ac_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810062355_aaa2fef861_o.png",
+        "id_image": "hygienic_3663434"
+      }
+    ],
+    "hash_code_list_img": "-151934667",
+    "list_example": [
+      "hygienic conditions"
+    ],
+    "hash_code_list_example": "583050625"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/lv_dmean_3500_it_1/raw/main/hypersensitive_lv_dmean_3500_it.json",
+    "id_item": "hypersensitive_lv_dmean_3500_it",
+    "id_album": "94691743",
+    "english": "hypersensitive",
+    "list_mean": [
+      "(tâm lý) quá dễ xúc cảm, quá đa cảm",
+      "(y học) quá nhạy cảm với dược phẩm nào đó"
+    ],
+    "hash_code_list_mean": "-1783097453",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808370332_028043c701_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808370332_386e4620c2_o.png",
+        "id_image": "hypersensitive_2999192"
+      }
+    ],
+    "hash_code_list_img": "413763890",
+    "list_example": [
+      "hypersensitive to antibiotics"
+    ],
+    "hash_code_list_example": "1372906555"
+  }
+]
